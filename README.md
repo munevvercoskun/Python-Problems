@@ -1,2 +1,2 @@
 # Python-Problems
-These are some program problems I solved using th Python programming. 
+These are some of the assignment I did using the Python programming language. 
